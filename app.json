@@ -1,1 +1,1 @@
-{}
+{"buildpacks":[{"url": "https://github.com/zunda/heroku-empty-app"}]}
