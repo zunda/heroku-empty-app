@@ -1,0 +1,6 @@
+#!/bin/sh
+
+cat <<_EOF
+addons: []
+default_process_types:
+_EOF
