@@ -1,3 +1,4 @@
 /bin
+.slugignore
 LICENSE
 README.md
